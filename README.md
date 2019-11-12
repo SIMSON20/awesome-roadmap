@@ -1,5 +1,5 @@
 # Awesome Roadmap
-Inspire of [roadmap.sh](https://roadmap.sh)
+Inspire by [roadmap.sh](https://roadmap.sh)
 
 > # 1. Frontend Developer
 [See Frontend Developer Roadmap](https://roadmap.sh/frontend)
