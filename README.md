@@ -13,6 +13,18 @@ Inspire by [roadmap.sh](https://roadmap.sh)
 * Ruby
 * PHP
 * JavaScript (NodeJS)
-
+> ### 2.1.2 Functional Languages
+* Elixir
+* Scala
+* Erlang
+* Clojure
+* Haskell
+> ### 2.1.3 Other Languages
+* Java
+  * [github.com/s4kibs4mi/java-developer-roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
+  * [The 2019 Java Developer Roadmap - DZone Java](https://dzone.com/articles/the-2019-java-developer-roadmap)
+* .Net
+* Golang
+* Rust
 > # 3. DevOps
 [See DevOps Roadmap](https://roadmap.sh/devops)
